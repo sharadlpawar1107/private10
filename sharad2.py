@@ -5,5 +5,5 @@ print("1234")
 print("ssss")
 print("sp")
 print("pppp")
-print("Snehal+ash--ni")
+
 print("snehal")
